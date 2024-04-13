@@ -1,4 +1,4 @@
-# COMP3005__FinalProject
+# COMP3005__FinalProject_V2
 COMP 3005 - Winter 2024- Project: Health and Fitness Club Management System - Jared Nguyen
 
 Required Applications and Libraries:
