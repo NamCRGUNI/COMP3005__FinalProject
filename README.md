@@ -10,4 +10,4 @@ Installation:
 - Provided is the dml.sql file which contains the initial data for demonstration purposes
 - Psycopg2 will connect to the database with the provided login details within database.py
 
-Video Demo:https://www.youtube.com/watch?v=BQBgsenvpvo
+Video Demo: https://www.youtube.com/watch?v=BQBgsenvpvo
